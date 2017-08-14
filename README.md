@@ -1,5 +1,7 @@
 # customBorder
-To use add the following:
+An example java class for a question on StackOverflow: https://stackoverflow.com/questions/45667001/attaching-images-to-jlabels-border
+
+To use this code copy it into your project as a new class, then add the following to your form class:
 
 ```
    //Create border
